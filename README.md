@@ -1,4 +1,4 @@
-## Personal Porfolio Site
+## Porfolio Site
 
 My personal portfolio site.
 
